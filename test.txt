@@ -1,1 +1,1 @@
-This is my first git repository 
+This is my first git repository. I have commited before but now i am changing this file once more . I want to see the power of git. 
